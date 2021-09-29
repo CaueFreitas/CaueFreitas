@@ -12,6 +12,10 @@
 
 <p align="left">
   💌 You can find me at: ⤵️
+
+   <a href="https://www.instagram.com/cwaue__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/cwaue" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  
 </p>
 
 <p align="left">
@@ -28,9 +32,4 @@
 
 
 
-  <a href="https://www.instagram.com/cwaue__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/cwaue" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-
-</div>
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/CaueFreitas/CaueFreitas/blob/output/github-contribution-grid-snake.svg)
