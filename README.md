@@ -16,14 +16,6 @@
    <a href="https://www.instagram.com/cwaue__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/cwaue" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
-</p>
-
-<p align="left">
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=www.instagram.com/cwaue__/"/></a>
-  
-  
-</p>  
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=CaueFreitas&theme=dark)](https://github.com/CaueFreitas/)
